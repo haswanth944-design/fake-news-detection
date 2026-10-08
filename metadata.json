@@ -1,0 +1,8 @@
+{
+  "name": "Remix Fake News Detection in Social Media Using Machine Learning",
+  "description": "A machine learning system using TF-IDF, Logistic Regression, and Naive Bayes to classify news articles as Real or Fake, complete with model evaluation, viva prep, and Python Flask project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
